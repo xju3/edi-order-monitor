@@ -1,0 +1,36 @@
+{
+  "start": 48,
+  "step": 5,
+  "columns": [
+    {
+      "required_date": {"code": "C", "offset": 0}
+    },
+    {
+      "part_no": {"code": "J", "offset": 0}
+    },
+    {
+      "req_qty": {"code": "T", "offset": 0}
+    },
+    {
+      "actual": {"code": "AB", "offset": 1}
+    },
+    {
+      "expected_type": {"code": "AK", "offset": 0}
+    },
+    {
+      "pack_qty": {"code": "BF", "offset": 0}
+    },
+    {
+      "container": {"code": "BJ", "offset": 0}
+    },
+    {
+      "po": {"code": "BU", "offset": 0}
+    },
+    {
+      "line": {"code": "CC", "offset": 0}
+    },
+    {
+      "release": {"code": "CG", "offset": 0}
+    }
+  ]
+}

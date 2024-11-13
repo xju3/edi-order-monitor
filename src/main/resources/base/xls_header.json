@@ -1,0 +1,102 @@
+{
+  "trip_id": {
+    "cell": "P,24",
+    "replacement": ""
+  },
+  "pickup_date": {
+    "cell": "AZ,25",
+    "replacement": ""
+  },
+  "router_id": {
+    "cell": "BZ,24",
+    "replacement": ""
+  },
+  "pickup_list": {
+    "cell": "P,28",
+    "replacement": ""
+  },
+  "deliver_date": {
+    "cell": "AZ,28",
+    "replacement": ""
+  },
+  "miles": {
+    "cell": "BZ,28",
+    "replacement": ""
+  },
+  "volume": {
+    "cell": "BZ,31",
+    "replacement": ""
+  },
+  "deliver_note": {
+    "cell": "P,35",
+    "replacement": ""
+  },
+  "qty": {
+    "cell": "BZ,37",
+    "replacement": ""
+  },
+  "mv_1": {
+    "cell": "C,17",
+    "replacement": ""
+  },
+  "mv_2": {
+    "cell": "C,18",
+    "replacement": "Master Vendor #:"
+  },
+  "mv_3": {
+    "cell": "C,19",
+    "replacement": ""
+  },
+  "mv_4": {
+    "cell": "C,20",
+    "replacement": ""
+  },
+  "shipper_1": {
+    "cell": "Y,17",
+    "replacement": ""
+  },
+  "shipper_2": {
+    "cell": "Y,18",
+    "replacement": "Pickup Supplier #:"
+  },
+  "shipper_3": {
+    "cell": "Y,19",
+    "replacement": ""
+  },
+  "shipper_4": {
+    "cell": "Y,20",
+    "replacement": ""
+  },
+  "mc_1": {
+    "cell": "AV,17",
+    "replacement": ""
+  },
+  "mc_2": {
+    "cell": "AV,18",
+    "replacement": "Consignee Code #:"
+  },
+  "mc_3": {
+    "cell": "AV,19",
+    "replacement": ""
+  },
+  "mc_4": {
+    "cell": "AV,20",
+    "replacement": ""
+  },
+  "dest_1": {
+    "cell": "BS,17",
+    "replacement": ""
+  },
+  "dest_2": {
+    "cell": "BS,18",
+    "replacement": "Plant Code #: "
+  },
+  "dest_3": {
+    "cell": "BS,19",
+    "replacement": ""
+  },
+  "dest_4": {
+    "cell": "BS,20",
+    "replacement": ""
+  }
+}
